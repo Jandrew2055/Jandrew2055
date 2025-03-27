@@ -2,7 +2,7 @@
 
 🚀 **Software Engineer | Open Source Contributor**
 
-I'm passionate about building impactful software and crafting tools that make lives easier. Currently, I'm diving into **AWS monitoring**, **React apps**, and exploring **Docker** for scalable solutions.
+I'm passionate about building impactful software and crafting tools that make lives easier. Currently, I'm diving into **React**, **TTDs**, and exploring **Docker** for scalable solutions.
 
 ---
 
